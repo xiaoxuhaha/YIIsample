@@ -1,2 +1,0 @@
-# YIIsample
-YIIsample sample
